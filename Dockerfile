@@ -1,2 +1,2 @@
 FROM nginx
-RUN echo '<h1>This is a Demo HTML</h1>' > /usr/share/nginx/html/index.html
+RUN echo '<h1>This is a Second Demo HTML</h1>' > /usr/share/nginx/html/index.html
